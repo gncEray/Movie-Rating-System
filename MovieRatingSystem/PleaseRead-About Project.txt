@@ -1,0 +1,2 @@
+editor code: w
+Before adding movie(films and series) you have to create BackStage and DownStage class objects
